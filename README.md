@@ -5,7 +5,7 @@
 First of all,Thanks alot for visiting my page.I am **Noobplayer7 from Bangalore,India**.I am a middle school code-addict student.I like making projects with an elegant and easy to use UI so anyone can easily use them. 
 
 <ul>
-<li> 🎯 Aim: To become a Blackhat</li>
+<li> 🎯 Aim: To become a WhiteHat</li>
 <li> 🔧 Current Project: Discord Bot </li>
 <li> ❤ Preference: Java Projects </li>
 <li> 😴 Dream Project: A search engine </li>
